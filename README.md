@@ -60,9 +60,5 @@ Bu proje için kodları çalıştırmadan önce `cleaned_data_fixed.csv` dosyas�
 2. **Analiz ve Görselleştirme:** Kod parçacıklarını kullanarak veriyi analiz edin ve görselleştirin.
 3. **Model Eğitimi ve Test:** Makine öğrenimi kodunu çalıştırarak model performansını değerlendirin.
 
-## Katkı
-Katkıda bulunmak için pull request gönderin veya bir issue açın.
 
-## Lisans
-Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
